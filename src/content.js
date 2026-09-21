@@ -38,7 +38,7 @@ export const content = {
       badges: [
         { label: "INGLÉS", value: "B2" },
         { label: "AHORA", value: "AI Engineer @ MimeIA" },
-        { label: "EN PRODUCCIÓN", value: "+11 agencias (RentOSO)" },
+        { label: "EXPERIENCIA", value: "+11 agencias (RentOSO)" },
         { label: "DOCENCIA", value: "Relator de agentes IA · USACH" },
         { label: "ANTES", value: "AI Engineer · Audisoft" },
       ],
@@ -60,16 +60,21 @@ export const content = {
         "Plataformas multi-cliente, agentes que atienden de verdad y RAG sobre documentos reales.",
       groups: [
         {
-          label: "EN PRODUCCIÓN",
+          label: "EXPERIENCIA",
           items: [
             {
               name: "RentOSO",
-              tagline: "CRM inmobiliario con IA · SaaS multi-tenant · CTO",
+              tagline: "CRM inmobiliario con IA · SaaS multi-tenant · ex-CTO",
               description:
                 "Automatiza el ciclo comercial inmobiliario completo con agentes que atienden por WhatsApp. Google ADK en Vertex AI Agent Engine (Gemini 2.5), FastAPI + NestJS, Supabase con Row-Level Security. Alta de cliente por configuración, sin re-despliegue. +11 agencias activas.",
               tags: ["PYTHON", "FASTAPI", "GOOGLE ADK", "VERTEX AI", "SUPABASE", "WHATSAPP API"],
               links: [],
             },
+          ],
+        },
+        {
+          label: "EN PRODUCCIÓN",
+          items: [
             {
               name: "MimeIA / Symphonai",
               tagline: "CRM conversacional multi-agente · Full Stack AI Engineer",
@@ -287,7 +292,7 @@ export const content = {
       badges: [
         { label: "ENGLISH", value: "B2" },
         { label: "NOW", value: "AI Engineer @ MimeIA" },
-        { label: "IN PRODUCTION", value: "+11 agencies (RentOSO)" },
+        { label: "EXPERIENCE", value: "+11 agencies (RentOSO)" },
         { label: "TEACHING", value: "AI agents lecturer · USACH" },
         { label: "PREVIOUSLY", value: "AI Engineer · Audisoft" },
       ],
@@ -309,16 +314,21 @@ export const content = {
         "Multi-tenant platforms, agents that actually answer, and RAG over real documents.",
       groups: [
         {
-          label: "IN PRODUCTION",
+          label: "EXPERIENCE",
           items: [
             {
               name: "RentOSO",
-              tagline: "Real-estate CRM with AI · multi-tenant SaaS · CTO",
+              tagline: "Real-estate CRM with AI · multi-tenant SaaS · ex-CTO",
               description:
                 "Automates the full real-estate sales cycle with WhatsApp agents. Google ADK on Vertex AI Agent Engine (Gemini 2.5), FastAPI + NestJS, Supabase with Row-Level Security. New-client onboarding is configuration, not redeployment. +11 agencies live.",
               tags: ["PYTHON", "FASTAPI", "GOOGLE ADK", "VERTEX AI", "SUPABASE", "WHATSAPP API"],
               links: [],
             },
+          ],
+        },
+        {
+          label: "IN PRODUCTION",
+          items: [
             {
               name: "MimeIA / Symphonai",
               tagline: "Multi-agent conversational CRM · Full Stack AI Engineer",
