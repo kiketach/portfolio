@@ -1,13 +1,13 @@
 @import "tailwindcss";
 
 @theme {
-  --color-paper: #f0ede4;
-  --color-paper-200: #e8e4d7;
-  --color-paper-300: #dcd6c3;
-  --color-paper-400: #c9c1a9;
-  --color-ink: #181a17;
-  --color-ink-soft: #3e403b;
-  --color-ink-mute: #565952;
+  --color-paper: #ebf0ea;
+  --color-paper-200: #dfe8dc;
+  --color-paper-300: #ccd9c7;
+  --color-paper-400: #afc4a8;
+  --color-ink: #161a17;
+  --color-ink-soft: #3b423c;
+  --color-ink-mute: #57614f;
   --color-moss: #1f4a38;
   --color-moss-soft: #2c6650;
 

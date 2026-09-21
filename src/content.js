@@ -40,8 +40,10 @@ export const content = {
         { label: "AHORA", value: "AI Engineer @ MimeIA" },
         { label: "EN PRODUCCIÓN", value: "+11 agencias (RentOSO)" },
         { label: "DOCENCIA", value: "Relator de agentes IA · USACH" },
+        { label: "ANTES", value: "AI Engineer · Audisoft" },
       ],
       marquee: [
+        "DEVIN", "CLAUDE CODE", "CODEX", "DEEPSEEK HARNESS",
         "PYTHON", "FASTAPI", "AGENCY SWARM", "GOOGLE ADK", "VERTEX AI",
         "GEMINI", "LITELLM", "MCP", "RAG", "PGVECTOR", "POSTGRESQL",
         "SUPABASE", "REDIS", "MONGODB", "TYPESCRIPT", "NESTJS", "NEXT.JS",
@@ -160,12 +162,16 @@ export const content = {
           subtitle: "Orquestación, capa LLM y retrieval.",
           clusters: [
             {
+              label: "DEV AGENTS",
+              items: ["Devin", "Claude Code", "Codex", "DeepSeek Harness"],
+            },
+            {
               label: "SISTEMAS",
               items: ["Multi-agente (MAS)", "Agency Swarm", "Google ADK", "PydanticAI", "LiteLLM", "MCP", "RAG", "Function calling", "Structured outputs", "Prompt engineering", "Guardrails"],
             },
             {
               label: "MODELOS",
-              items: ["Gemini 2.5", "GPT", "Claude", "Gemini Live (voz)", "ElevenLabs"],
+              items: ["SWE (Devin)", "Gemini", "GPT", "Claude", "Gemini Live (voz)", "ElevenLabs"],
             },
           ],
         },
@@ -283,8 +289,10 @@ export const content = {
         { label: "NOW", value: "AI Engineer @ MimeIA" },
         { label: "IN PRODUCTION", value: "+11 agencies (RentOSO)" },
         { label: "TEACHING", value: "AI agents lecturer · USACH" },
+        { label: "PREVIOUSLY", value: "AI Engineer · Audisoft" },
       ],
       marquee: [
+        "DEVIN", "CLAUDE CODE", "CODEX", "DEEPSEEK HARNESS",
         "PYTHON", "FASTAPI", "AGENCY SWARM", "GOOGLE ADK", "VERTEX AI",
         "GEMINI", "LITELLM", "MCP", "RAG", "PGVECTOR", "POSTGRESQL",
         "SUPABASE", "REDIS", "MONGODB", "TYPESCRIPT", "NESTJS", "NEXT.JS",
@@ -403,12 +411,16 @@ export const content = {
           subtitle: "Orchestration, LLM layer and retrieval.",
           clusters: [
             {
+              label: "DEV AGENTS",
+              items: ["Devin", "Claude Code", "Codex", "DeepSeek Harness"],
+            },
+            {
               label: "SYSTEMS",
               items: ["Multi-agent (MAS)", "Agency Swarm", "Google ADK", "PydanticAI", "LiteLLM", "MCP", "RAG", "Function calling", "Structured outputs", "Prompt engineering", "Guardrails"],
             },
             {
               label: "MODELS",
-              items: ["Gemini 2.5", "GPT", "Claude", "Gemini Live (voice)", "ElevenLabs"],
+              items: ["SWE (Devin)", "Gemini", "GPT", "Claude", "Gemini Live (voice)", "ElevenLabs"],
             },
           ],
         },
